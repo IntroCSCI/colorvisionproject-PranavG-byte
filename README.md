@@ -1,12 +1,12 @@
-# !!!Replace with your unique project name!!!
+Color Blindness Test
 
 ## Description
 
-!!!Replace with a description of what your program does!!!
+My program asks the user to take a color blindness test, evaluates them results and gives them an appropriate response to their test attempt.
 
 ## Developer
 
-!!!Replace with your name!!!
+Pranav Gopalakumaran
 
 ## Example
 
@@ -20,27 +20,31 @@ g++ --std=c++11 main.cpp -o cvp
 Here is an example of the program running:
 
 ```
-!!!Replace with an example of the program running with user interaction!!!
+What number do you see on image L?
+3
+Would you like to restart the test?
+n
 ```
 
-## C++ Guide
+
+
 
 ### Variables and Data Types
 
-!!!Replace with a summary and examples of how multiple variables have been used with a variety of data types and why they have been used effectively and appropriately!!!
+ variables - image(1-12) ,decision , score and finalvalue.
+
+ Data Types - Char, int and double.
+
 
 ### Input and Output
 
-!!!Replace with a summary and examples of how input and output have been used effectively and appropriately!!!
+I got the input from user of what they thought the images were on the numbers to see how good their eye sight was and gave them their score using their answers.
 
 ### Decisions
 
-!!!Replace with a summary and examples of how multiple decision constructs have been used effectively and appropriately!!!
+Depending on the score the program gives a different reply
 
 ### Iteration
 
-!!!Replace with a summary and examples of how iteration has been used effectively and appropriately!!!
+I used a do-while loop for gathering input of the answers for the images.
 
-### File Input and Output
-
-!!!Replace with a summary and examples of how input and/or output of files have been used effectively and appropriately!!!
