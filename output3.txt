@@ -1,0 +1,8 @@
+-----------------------------------------------
+              Assessment Results
+-----------------------------------------------
+You have trouble seeing the folowing colors: 
+
+ 1.  Light Green
+ 2.  Light Red
+ 3.  Light Pink

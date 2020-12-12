@@ -1,0 +1,16 @@
+-----------------------------------------------
+              Assessment Results
+-----------------------------------------------
+You have trouble seeing the folowing colors: 
+
+ 1.  Green
+ 2.  Orange
+ 3.  Light Green
+ 4.  Medium Green
+ 5.  Maroon
+ 6.  Pink
+ 7.  Olive Green
+ 8.  Dark Green
+ 9.  Light Red
+10.  Blueish Green
+11.  Light Pink
