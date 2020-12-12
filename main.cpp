@@ -1,5 +1,4 @@
 #include "ColorBlindnessTest.h"
-#include "ColorBlindnessTest.cpp"
 #include <iostream>
 #include <vector>
 #include <fstream>
