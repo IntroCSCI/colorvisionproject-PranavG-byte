@@ -13,7 +13,7 @@ Pranav Gopalakumaran
 To run the program, give the following commands:
 
 ```
-g++ --std=c++11 Questionaire.cpp main.cpp -o cvp
+g++ --std=c++11 ColorBlindnessTest.cpp main.cpp -o cvp
 ./cvp
 ```
 
